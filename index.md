@@ -5,4 +5,4 @@ Budget completed
 
 
 
-![Image of PCB](https://thesweeterman.github.io/TBD/Capture.PNG)
+![Image of PCB](https://thesweeterman.github.io/TBD/Purchase.PNG)
