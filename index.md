@@ -15,3 +15,6 @@ SCHEMATIC:
 
 PCB:
 ![Image of PCB](https://thesweeterman.github.io/TBD/PCB.PNG)
+Breadboard circuit:
+![Image of PCB](https://thesweeterman.github.io/TBD/tempcircuit.PNG)
+![Image of PCB](https://thesweeterman.github.io/TBD/measurement.PNG)
