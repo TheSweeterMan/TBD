@@ -18,3 +18,7 @@ PCB:
 Breadboard circuit:
 ![Image of PCB](https://thesweeterman.github.io/TBD/tempcircuit.PNG)
 ![Image of PCB](https://thesweeterman.github.io/TBD/measurement.PNG)
+Solder:
+![Image of PCB](https://thesweeterman.github.io/TBD/Solder.PNG)
+I need to fix up some of my Soldering and finish soldering the rest of my components
+ 
