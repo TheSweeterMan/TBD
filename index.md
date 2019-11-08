@@ -24,9 +24,9 @@ Solder:
 
 ![Image of PCB](https://thesweeterman.github.io/TBD/Solder.PNG)
 
-Problem: I need to fix up some of my Soldering and finish soldering the rest of my components
+Problem: I need to fix up some of my Soldering and finish soldering the rest of my components.
  
-Progress: For the most part everthing is on schedule. All I need to due is finish soldering my PCB board and I will be back on track
+Progress: For the most part everthing is on schedule. All I need to due is finish soldering my PCB board and I will be back on track.
 
 
-Budget: I did not have A/D converter chip for my temperature sensor. So I when for the cheapest and most efficient opsion and bought a new temperature sensor for $10.
+Budget: I did not have an A/D converter chip for my temperature sensor. So I went for the cheapest and most efficient option and bought a new temperature sensor for $10.
