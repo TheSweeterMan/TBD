@@ -15,16 +15,21 @@ Solder:
 ![Image of PCB](https://thesweeterman.github.io/TBD/Solder.PNG)
 
 Breadboard circuit:
+
 ![Image of PCB](https://thesweeterman.github.io/TBD/tempcircuit.PNG)
+
 ![Image of PCB](https://thesweeterman.github.io/TBD/measurement.PNG)
 
 PCB:
+
 ![Image of PCB](https://thesweeterman.github.io/TBD/PCB.PNG)
 
 SCHEMATIC:
+
 ![Image of PCB](https://thesweeterman.github.io/TBD/Sch.PNG)
 
 BREADBOARD:
+
 ![Image of PCB](https://thesweeterman.github.io/TBD/BreadB.PNG)
 
 Proof Of Purchase:
