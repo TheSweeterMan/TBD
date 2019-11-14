@@ -4,12 +4,9 @@ Solar Panel Gozebo
 
  
 November 14th Progress: 
-Budget Overview
+Budget Overview 
 
-
-November 7th Progress: 
-
-For the most part everthing is on schedule. All I need to due is finish soldering my PCB board and I will be back on track.
+For the most part everthing is on schedule. Task 1 was to find a team and select a project you team wanted to do. My team picked the Solar Panel gazebo project. For task 2 I had to make a proposal stating what project we selected, what’s my team member names, and what sensors we had to buy. For task 3 I to maked a Gantt chart detailing important milestones that was coming up so I can keep track of my progress. For task 4 I had to make budget to see how much I will be spending on the project For task 5 This milestone I had to order all the parts I needed for this project. For task 6 I showed proof that I bought my parts and had a meeting with the teacher about my progress. For task 7 I went on fritzing and design my breadboard, schematic, and PCB circuit.For task 8 I setup the physical version of my circuit on the breadboard and made sure my sensor was reading numbers. For task 9 I had to solder all my components on to the PCB board. All I need to due is finish soldering my PCB board and finish my Progress report I will be back on track.
 
 Problem: I need to fix up some of my Soldering and finish soldering the rest of my components.
 
