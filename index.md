@@ -2,8 +2,9 @@
 Solar Panel Gozebo
 -------------------
 ### November 21 2019
+Encloser:
 
-![Image of PCB](https://thesweeterman.github.io/TBD/case.jpg)
+![Image of Encloser](https://thesweeterman.github.io/TBD/case.jpg)
  
 November 14th Progress: 
 Budget Overview 
