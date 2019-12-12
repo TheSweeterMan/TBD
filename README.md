@@ -1,5 +1,6 @@
 # Build Instructions
 ### Introduction using a system diagram
+![Image of SystemDiagram](https://thesweeterman.github.io/TBD/SD.PNG)
 
 ### Bill of Materials/Budget
 ![Image of Budget](https://thesweeterman.github.io/TBD/BuildBudget.PNG)
