@@ -2,7 +2,7 @@
 ### Introduction using a system diagram
 
 ### Bill of Materials/Budget
-![Image of Budget](https://thesweeterman.github.io/TBD/BuildBudget.PNG)
+![Image of Budget](https://thesweeterman.github.io/TBD/BuildBdget.PNG)
 
 ### Time Commitment
 ### Mechanical Assembly
