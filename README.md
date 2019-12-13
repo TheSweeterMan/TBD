@@ -3,8 +3,7 @@
 ![Image of SystemDiagram](https://thesweeterman.github.io/TBD/SD.PNG)
 
 ### Bill of Materials/Budget
-![DS18B20](https://thesweeterman.github.io/TBD/BuildBudget.PNG)
-
+c
 [Raspberry PI 4 Model B(4GB=$88.75)](https://www.creatroninc.com/product/ds18b20-temperature-sensor-55-to-125c/?search_query=Ds18b20&results=3)
 
 [6 PIN RECEPTACLE SOCKET=$0.44](https://www.creatroninc.com/product/6-pin-receptacle-socket/?search_query=SOCKET&results=231)
@@ -17,7 +16,10 @@
 
 [Capri Tools Wire Strippper and cutter=$18.99](https://www.amazon.ca/Capri-Tools-CP20013-Professional-Stripper/dp/B01018D07K/ref=sr_1_5?crid=2Z2XTP5GSBVST&keywords=wire+stripper&qid=1576270031&sprefix=wire+%2Caps%2C163&sr=8-5)
 
-[Youtube tutorial](https://www.youtube.com/watch?v=aEnS0-Jy2vE&t=87s)
+[HALF SIZE BREADBOARD - WHITE=$5.95](https://www.creatroninc.com/product/half-size-breadboard-white/?search_query=Half+size+breadboard&results=4)
+
+[Total](https://thesweeterman.github.io/TBD/BuildBudget.PNG)
+
 ### Time Commitment
 ### Mechanical Assembly
 Requires: 
@@ -26,6 +28,8 @@ Bread board, male to male jumper wires, DS18B20 temperature sensor, , and Raspbe
 [Youtube tutorial](https://www.youtube.com/watch?v=aEnS0-Jy2vE&t=87s)
 
 ### PCB / Soldering
+Requires:
+PCB Board
 ![Image of PCB](https://thesweeterman.github.io/TBD/PCB.PNG)
 TOP:
 Step 1:
