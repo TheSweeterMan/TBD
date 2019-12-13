@@ -79,7 +79,10 @@ step5:
 then type in the command sudo modprobe w1-therm
 ![Image of SolderingPart1](https://thesweeterman.github.io/TBD/Mechanical Assembly/step5.PNG)
 Step 6:
+
 Then type in the command cd /sys/bus/w1/sevices
+
+
 ![Image of SolderingPart1](https://thesweeterman.github.io/TBD/Mechanical Assembly/Step1.PNG)
 Step7:
 this command should bring you to new directory and once your in this directory type in the command ls.
