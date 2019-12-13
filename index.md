@@ -23,18 +23,18 @@ Problem: I need to fix up some of my Soldering and finish soldering the rest of 
 
 Budget: I did not have an A/D converter chip for my temperature sensor. So I went for the cheapest and most efficient option and bought a new temperature sensor for $10.
 ### November 7, 2019
-Solder:
+Soldering:
 
 Top
 
 
 ![Image of PCB](https://thesweeterman.github.io/TBD/SolderingPart1.PNG)
 
-Bottom:
+Bottom
 
 ![Image of PCB](https://thesweeterman.github.io/TBD/SolderingPart2.PNG)
 
-Bottom:
+
 ### October 31 2019
 Breadboard circuit:
 
