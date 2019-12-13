@@ -35,12 +35,12 @@ SCHEMATIC:
 
 BREADBOARD:
 
-![Image of PCB](https://thesweeterman.github.io/TBD/BreadB.PNG)
+![Image of BreadBoard](https://thesweeterman.github.io/TBD/BreadB.PNG)
 
 ### October 10 2019 
 Proof Of Purchase:
 
-![Image of PCB](https://thesweeterman.github.io/TBD/Purchase.PNG)
+![Image of Purchase](https://thesweeterman.github.io/TBD/Purchase.PNG)
 
 ### September 26 2019
 Budget completed 
