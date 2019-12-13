@@ -64,38 +64,60 @@ flip the pcb board back to the top and solder in the 6 pin socket.
 
 ### Power Up
 Step 1:
+
 Power up your Raspberry pi and go to Terminal.
+
 ![Image of SolderingPart1](https://thesweeterman.github.io/TBD/MechanicalAssembly/Step1.PNG)
+
 step2:
+
 Type in the command sudo nano /boot/config.txt. This command should bring you to the config.txt file, and when your in this file scroll all way down and type in dtoverlay=w1-gpio at the bottom line. Then save and leave the file.
-![Image of SolderingPart1](https://thesweeterman.github.io/TBD/MechanicalAssembly/step2.PNG)
+
+![Image of SolderingPart1](https://thesweeterman.github.io/TBD/MechanicalAssembly/step3.PNG)
 step3:
 Type in the command sudo reboot to reboot the raspberry pi and save config.txt changes.
-![Image of SolderingPart1](https://thesweeterman.github.io/TBD/MechanicalAssembly/Step1.PNG
+
+![Image of SolderingPart1](https://thesweeterman.github.io/TBD/MechanicalAssembly/step2.5.PNG
+
 step4: 
+
 once The raspberry pi is rebooted open back up the terminal and type in the command sudo modeprobe w1-gpio
+
 ![Image of SolderingPart1](https://thesweeterman.github.io/TBD/MechanicalAssembly/step1.PNG)
+
 step5:
+
 then type in the command sudo modprobe w1-therm
+
 ![Image of SolderingPart1](https://thesweeterman.github.io/TBD/MechanicalAssembly/step5.PNG)
+
 Step 6:
 
 Then type in the command cd /sys/bus/w1/sevices
 
+![Image of SolderingPart1](https://thesweeterman.github.io/TBD/MechanicalAssembly/step6.PNG)
 
-![Image of SolderingPart1](https://thesweeterman.github.io/TBD/MechanicalAssembly/Step1.PNG)
 Step7:
+
 this command should bring you to new directory and once your in this directory type in the command ls.
-![Image of SolderingPart1](https://thesweeterman.github.io/TBD/MechanicalAssembly/Step1.PNG)
+
+![Image of SolderingPart1](https://thesweeterman.github.io/TBD/MechanicalAssembly/step7.PNG)
+
 Step 8:
+
 Ten you will have change the directory by typing in the command cd address.
-![Image of SolderingPart1](https://thesweeterman.github.io/TBD/MechanicalAssembly/Step1.PNG)
+
+![Image of SolderingPart1](https://thesweeterman.github.io/TBD/MechanicalAssembly/step8.PNG)
 Step 9: 
 After the directory is changed, type in the command cat w1_slave to show the raw temperature
 ![Image of SolderingPart1](https://thesweeterman.github.io/TBD/MechanicalAssembly/Step1.PNG)
 step 10:
+
 type in cd to get back to the root directory. 
+
 ![Image of SolderingPart1](https://thesweeterman.github.io/TBD/MechanicalAssembly/Step1.PNG)
+
+
 ![Image of SolderingPart1](https://thesweeterman.github.io/TBD/MechanicalAssembly/Step1.PNG)
 
 
