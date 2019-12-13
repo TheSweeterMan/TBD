@@ -5,7 +5,15 @@ Solar Panel Gozebo
 Encloser:
 
 ![Image of Encloser](https://thesweeterman.github.io/TBD/case.jpg)
+
+
+### November 14 2019
+
+ Power Up:
  
+ 
+ ![Image of Power up](https://thesweeterman.github.io/TBD/PowerUp.PNG)
+
 November 14th Progress: 
 Budget Overview 
 
@@ -16,7 +24,10 @@ Problem: I need to fix up some of my Soldering and finish soldering the rest of 
 Budget: I did not have an A/D converter chip for my temperature sensor. So I went for the cheapest and most efficient option and bought a new temperature sensor for $10.
 ### November 7, 2019
 Solder:
+
 Top
+
+
 ![Image of PCB](https://thesweeterman.github.io/TBD/SolderingPart1.PNG)
 
 Bottom:
