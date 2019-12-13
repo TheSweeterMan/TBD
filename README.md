@@ -8,7 +8,7 @@
 ### Time Commitment
 ### Mechanical Assembly
 
-![Youtube](https://www.youtube.com/watch?v=aEnS0-Jy2vE&t=87s)
+[Youtube tutorial](https://www.youtube.com/watch?v=aEnS0-Jy2vE&t=87s)
 
 ### PCB / Soldering
 ![Image of PCB](https://thesweeterman.github.io/TBD/PCB.PNG)
