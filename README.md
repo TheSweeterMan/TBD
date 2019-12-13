@@ -83,7 +83,7 @@ step3:
 
 Type in the command sudo reboot to reboot the raspberry pi and save config.txt changes.
 
-![Image of SolderingPart1](https://thesweeterman.github.io/TBD/MechanicalAssembly/step3.PNG
+![Image of SolderingPart1](https://thesweeterman.github.io/TBD/MechanicalAssembly/step3.PNG)
 
 step4: 
 
