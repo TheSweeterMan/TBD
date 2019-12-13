@@ -22,9 +22,10 @@
 [Total=$151.97](https://thesweeterman.github.io/TBD/BuildBudget.PNG)
 
 ### Time Commitment
+
 ### Mechanical Assembly
 Requires: 
-Bread board, male to male jumper wires, DS18B20 temperature sensor, , and Raspberry pi
+Bread board, male to male jumper wires, DS18B20 temperature sensor, and Raspberry pi
 
 [Youtube tutorial](https://www.youtube.com/watch?v=aEnS0-Jy2vE&t=87s)
 
