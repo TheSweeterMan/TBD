@@ -74,19 +74,22 @@ step2:
 
 Type in the command sudo nano /boot/config.txt. This command should bring you to the config.txt file, and when your in this file scroll all way down and type in dtoverlay=w1-gpio at the bottom line. Then save and leave the file.
 
-![Image of SolderingPart1](https://thesweeterman.github.io/TBD/MechanicalAssembly/step3.PNG)
+![Image of SolderingPart1](https://thesweeterman.github.io/TBD/MechanicalAssembly/step2.PNG)
+
+![Image of SolderingPart1](https://thesweeterman.github.io/TBD/MechanicalAssembly/step2.5.PNG)
+
 
 step3:
 
 Type in the command sudo reboot to reboot the raspberry pi and save config.txt changes.
 
-![Image of SolderingPart1](https://thesweeterman.github.io/TBD/MechanicalAssembly/step2.5.PNG
+![Image of SolderingPart1](https://thesweeterman.github.io/TBD/MechanicalAssembly/step3.PNG
 
 step4: 
 
 once The raspberry pi is rebooted open back up the terminal and type in the command sudo modeprobe w1-gpio
 
-![Image of SolderingPart1](https://thesweeterman.github.io/TBD/MechanicalAssembly/step1.PNG)
+![Image of SolderingPart1](https://thesweeterman.github.io/TBD/MechanicalAssembly/step4.PNG)
 
 step5:
 
@@ -111,9 +114,13 @@ Step 8:
 Ten you will have change the directory by typing in the command cd address.
 
 ![Image of SolderingPart1](https://thesweeterman.github.io/TBD/MechanicalAssembly/step8.PNG)
+
 Step 9: 
+
 After the directory is changed, type in the command cat w1_slave to show the raw temperature
+
 ![Image of SolderingPart1](https://thesweeterman.github.io/TBD/MechanicalAssembly/step9.PNG)
+
 step 10:
 
 type in cd to get back to the root directory. 
@@ -121,7 +128,9 @@ type in cd to get back to the root directory.
 ![Image of SolderingPart1](https://thesweeterman.github.io/TBD/MechanicalAssembly/step10.PNG)
 
 step11:
+
 Finally, use the command sudo python temp.py to run your code and get readings.
+
 ![Image of running](https://thesweeterman.github.io/TBD/MechanicalAssembly/step11.PNG)
 
 
