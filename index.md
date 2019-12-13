@@ -21,9 +21,9 @@ Solder:
 ### October 31 2019
 Breadboard circuit:
 
-![Image of PCB](https://thesweeterman.github.io/TBD/tempcircuit.PNG)
+![Image of Circuit](https://thesweeterman.github.io/TBD/Assembly.PNG)
 
-![Image of PCB](https://thesweeterman.github.io/TBD/measurement.PNG)
+![Image of Readings](https://thesweeterman.github.io/TBD/Readings.PNG)
 ### October 17 2019
 PCB:
 
@@ -31,11 +31,11 @@ PCB:
 
 SCHEMATIC:
 
-![Image of PCB](https://thesweeterman.github.io/TBD/Sch.PNG)
+![Image of Schematic](https://thesweeterman.github.io/TBD/Schematic.PNG)
 
 BREADBOARD:
 
-![Image of BreadBoard](https://thesweeterman.github.io/TBD/BreadB.PNG)
+![Image of BreadBoard](https://thesweeterman.github.io/TBD/BreadBoard.PNG)
 
 ### October 10 2019 
 Proof Of Purchase:
