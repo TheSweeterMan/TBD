@@ -76,11 +76,14 @@ Connect the gnd pin to gnd pin on the raspberry pi.
 
 ![Image of SolderingPart1](https://thesweeterman.github.io/TBD/PowerUp/step5.PNG)
 
-[Youtube tutorial](https://www.youtube.com/watch?v=aEnS0-Jy2vE&t=87s)
 ### Case
 
+Use the link provided below to create your own lazer cut raspberry pi case.
+
+[Raspberry pi case](https://github.com/TheSweeterMan/TBD/blob/master/Raspberry_Pi_model_B%2B_or_Pi2_model_B_case.zip)
 
 ### PCB / Soldering
+
 Requires:
 
 PCB Board, 4.7K resistor, wires, 3 pin socket, and 6 pin socket. 
