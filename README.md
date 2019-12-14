@@ -23,9 +23,26 @@
 
 ### Time Commitment
 
+Materials- 30 minutes
+
+Mechanical Assembly- 30 minutes 
+
+PCB- 1 day
+
+Soldering - 1 hour
+
+Power up- 30 minutes
+
+Unit Testing- 5 minutes
+
+Total- 1 day 2 hours 30 minutes
+
 ### Mechanical Assembly
-Requires: 
+
+Requires:
+
 Bread board, male to male jumper wires, DS18B20 temperature sensor, 4.7k resistor, and Raspberry pi
+
 Step 1:
 
 Place Bread board on tablean and insert sensor into breadboard.
