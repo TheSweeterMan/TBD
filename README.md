@@ -194,7 +194,10 @@ After the directory is changed, type in the command cat w1_slave to show the raw
 
 step 10:
 
-type in cd to get back to the root directory. 
+type in cd to get back to the root directory. After use the command sudo nano temp.py and use the code provided below to get temperature reads.
+
+[Temperature Code](https://github.com/TheSweeterMan/TBD/blob/master/PowerUp/Code)
+
 
 ![Image of SolderingPart1](https://thesweeterman.github.io/TBD/MechanicalAssembly/step10.PNG)
 
