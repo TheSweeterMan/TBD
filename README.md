@@ -45,7 +45,7 @@ Bread board, male to male jumper wires, DS18B20 temperature sensor, 4.7k resisto
 
 Step 1:
 
-Place Bread board on tablean and insert sensor into breadboard.
+Place Bread board on table and insert sensor into breadboard.
 
 
 ![Image of sensor](https://thesweeterman.github.io/TBD/PowerUp/step1.PNG)
@@ -87,7 +87,7 @@ TOP:
 
 Step 1
 
-Insert THE 3 pin stocket into the leftside, where the 3 holes align.
+Insert the 3 pin stocket into the leftside, where the 3 holes align.
 
 ![Image of SolderingPart1](https://thesweeterman.github.io/TBD/Soldering/step1.PNG)
 
