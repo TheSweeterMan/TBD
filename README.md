@@ -42,15 +42,18 @@ Insert a 4.7k resistor into the vdd pin and data pin of the sensor.
 
 
 Step 3:
+Connect your vdd pin to the power supply on your raspberry pi.
 
 ![Image of SolderingPart1](https://thesweeterman.github.io/TBD/PowerUp/step3.PNG)
 
 Step 4:
+Connect the 1 wired data pin to Gpio4.
 
 ![Image of SolderingPart1](https://thesweeterman.github.io/TBD/PowerUp/step4.PNG)
 
 Step 5:
 
+Connect the gnd pin to ground on the raspberry pi.
 
 ![Image of SolderingPart1](https://thesweeterman.github.io/TBD/PowerUp/step5.PNG)
 
