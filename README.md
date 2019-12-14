@@ -64,13 +64,13 @@ Connect your vdd pin to the power supply on your raspberry pi.
 ![Image of SolderingPart1](https://thesweeterman.github.io/TBD/PowerUp/step3.PNG)
 
 Step 4:
-Connect the 1 wired data pin to Gpio4.
+Connect the 1 wired data pin to gpio4.
 
 ![Image of SolderingPart1](https://thesweeterman.github.io/TBD/PowerUp/step4.PNG)
 
 Step 5:
 
-Connect the gnd pin to ground on the raspberry pi.
+Connect the gnd pin to gnd pin on the raspberry pi.
 
 ![Image of SolderingPart1](https://thesweeterman.github.io/TBD/PowerUp/step5.PNG)
 
@@ -116,7 +116,7 @@ Bottom:
 
 Step 5
 
-Flip PCB board over and insert the 6 pin in the first raspberry pi slot on the pcb. Also, solder the 3 pin holes.
+Flip PCB board over on to back and insert the 6 pin in the first raspberry pi slot on the pcb. Also, solder the 3 pin holes.
 
 ![Image of SolderingPart1](https://thesweeterman.github.io/TBD/Soldering/step5.PNG)
 
