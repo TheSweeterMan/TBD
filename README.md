@@ -21,7 +21,7 @@
 
 [Safety Glasses=$30.45)](https://www.amazon.ca/3M-SecureFit-Protection-Glasses-Anti-fog/dp/B0197YJQGI/ref=sr_1_1_sspa?crid=116HJL57V8J66&keywords=safety+glasses&qid=1576270662&sprefix=safet%2Caps%2C171&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTk5YME9UU0UwTVo5JmVuY3J5cHRlZElkPUEwMzc4MjE3MklRMzFQMFlWT0RYRSZlbmNyeXB0ZWRBZElkPUEwMjUzNjk4MkZWUjRIWVNPODkzRSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
 
-[Total=$157.91](https://thesweeterman.github.io/TBD/BuildBudget.PNG)
+[Total=$157.91](https://github.com/TheSweeterMan/TBD/blob/master/BuildBudget.PNG)
 
 ### Time Commitment
 
