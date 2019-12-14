@@ -85,56 +85,54 @@ PCB Board, 4.7K resistor, wires, 3 pin socket, and 6 pin socket.
 
 TOP:
 
-Step 1:
+Step 1
 
 Insert THE 3 pin stocket into the leftside, where the 3 holes align.
 
 ![Image of SolderingPart1](https://thesweeterman.github.io/TBD/Soldering/step1.PNG)
 
-Step 2:
+Step 2
 
 Insert 4.7k resistor into the middle holes
 
 ![Image of SolderingPart1](https://thesweeterman.github.io/TBD/Soldering/step2.PNG)
 
-step 3:
+step 3
 
 Insert 3 stripped wires into the via's on the middle right of the pcb
 
 ![Image of SolderingPart1](https://thesweeterman.github.io/TBD/Soldering/step3.PNG)
 
-Step 4:
-
-![Image of SolderingPart1](https://thesweeterman.github.io/TBD/Soldering/step4.PNG)
+Step 4
 
 Solder the 3 stripped wires into the via.
 
+![Image of SolderingPart1](https://thesweeterman.github.io/TBD/Soldering/step4.PNG)
+
+
+
+
+Bottom:
+
+Step 5
+
+Flip PCB board over and insert the 6 pin in the first raspberry pi slot on the pcb. Also, solder the 3 pin holes.
+
 ![Image of SolderingPart1](https://thesweeterman.github.io/TBD/Soldering/step5.PNG)
 
-step 5:
+Step 6
 
-flip PCB board over and go to step 6
+Solder wires that acquire soldering.
 
 ![Image of SolderingPart1](https://thesweeterman.github.io/TBD/Soldering/step6.PNG)
 
-BOTTOM:
-Step 7:
-Solder the 3 pin stocket holes 
-Step 8:
-Solder the 4.7k resistor holes
-Step 9: 
+  Top:
+  
+Step 7
+Flip back to the top of the pcb board and solder the 6 pin stocket holes 
 
-Solder the the 3 stripped wires on the bottom side this time.
+![Image of SolderingPart1](https://thesweeterman.github.io/TBD/Soldering/step7.PNG)
 
-Step 10:
-Insert the 6 pin socket into pcb board
-Top:
-
-Step 11: 
-
-flip the pcb board back to the top and solder in the 6 pin socket.
-
-![Image of SolderingPart2](https://thesweeterman.github.io/TBD/SolderingPart2.PNG)
 
 ### Power Up
 Step 1:
