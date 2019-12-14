@@ -1,6 +1,6 @@
 # Build Instructions
 ### System diagram
-![Image of SystemDiagram](https://thesweeterman.github.io/TBD/SD.PNG)
+![Image of SystemDiagram](https://github.com/TheSweeterMan/TBD/blob/master/SD.PNG)
 
 ### Bill of Materials/Budget
 [DS18B20=$5.85](https://www.creatroninc.com/product/ds18b20-temperature-sensor-55-to-125c/?search_query=Ds18B20&results=3)
