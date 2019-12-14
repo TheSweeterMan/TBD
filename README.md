@@ -4,6 +4,7 @@
 
 ### Bill of Materials/Budget
 [DS18B20=$5.85](https://www.creatroninc.com/product/ds18b20-temperature-sensor-55-to-125c/?search_query=Ds18B20&results=3)
+
 [Raspberry PI 4 Model B(4GB=$88.75)](https://www.creatroninc.com/product/ds18b20-temperature-sensor-55-to-125c/?search_query=Ds18b20&results=3)
 
 [6 PIN RECEPTACLE SOCKET=$0.44](https://www.creatroninc.com/product/6-pin-receptacle-socket/?search_query=SOCKET&results=231)
