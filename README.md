@@ -1,5 +1,5 @@
 # Build Instructions
-### Introduction using a system diagram
+### System diagram
 ![Image of SystemDiagram](https://thesweeterman.github.io/TBD/SD.PNG)
 
 ### Bill of Materials/Budget
@@ -135,6 +135,7 @@ Flip back to the top of the pcb board and solder the 6 pin stocket holes
 
 
 ### Power Up
+
 Step 1:
 
 Power up your Raspberry pi and go to Terminal.
@@ -158,13 +159,13 @@ Type in the command sudo reboot to reboot the raspberry pi and save config.txt c
 
 step4: 
 
-once The raspberry pi is rebooted open back up the terminal and type in the command sudo modeprobe w1-gpio
+Once The raspberry pi is rebooted open back up the terminal and type in the command sudo modeprobe w1-gpio
 
 ![Image of SolderingPart1](https://thesweeterman.github.io/TBD/MechanicalAssembly/step4.PNG)
 
 step5:
 
-then type in the command sudo modprobe w1-therm
+Then type in the command sudo modprobe w1-therm
 
 ![Image of SolderingPart1](https://thesweeterman.github.io/TBD/MechanicalAssembly/step5.PNG)
 
@@ -176,7 +177,7 @@ Then type in the command cd /sys/bus/w1/sevices
 
 Step7:
 
-this command should bring you to new directory and once your in this directory type in the command ls.
+This command should bring you to new directory and once your in this directory type in the command ls.
 
 ![Image of SolderingPart1](https://thesweeterman.github.io/TBD/MechanicalAssembly/step7.PNG)
 
@@ -194,7 +195,7 @@ After the directory is changed, type in the command cat w1_slave to show the raw
 
 step 10:
 
-type in cd to get back to the root directory. After use the command sudo nano temp.py and use the code provided below to get temperature reads.
+Type in cd to get back to the root directory. After use the command sudo nano temp.py and use the code provided below to get temperature reads.
 
 [Temperature Code](https://github.com/TheSweeterMan/TBD/blob/master/PowerUp/Code)
 
