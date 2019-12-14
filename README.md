@@ -35,7 +35,7 @@ Power up- 30 minutes
 
 Unit Testing- 5 minutes
 
-Total- 1 day 2 hours 30 minutes
+Total- 1 day 2 hours 35 minutes
 
 ### Mechanical Assembly
 
@@ -78,20 +78,45 @@ Connect the gnd pin to ground on the raspberry pi.
 
 ### PCB / Soldering
 Requires:
-PCB Board
+
+PCB Board, 4.7K resistor, wires, 3 pin socket, and 6 pin socket. 
+
 ![Image of PCB](https://thesweeterman.github.io/TBD/PCB.PNG)
+
 TOP:
+
 Step 1:
+
 Insert THE 3 pin stocket into the leftside, where the 3 holes align.
+
+![Image of SolderingPart1](https://thesweeterman.github.io/TBD/Soldering/step1.PNG)
+
 Step 2:
+
 Insert 4.7k resistor into the middle holes
+
+![Image of SolderingPart1](https://thesweeterman.github.io/TBD/Soldering/step2.PNG)
+
 step 3:
+
 Insert 3 stripped wires into the via's on the middle right of the pcb
+
+![Image of SolderingPart1](https://thesweeterman.github.io/TBD/Soldering/step3.PNG)
+
 Step 4:
+
+![Image of SolderingPart1](https://thesweeterman.github.io/TBD/Soldering/step4.PNG)
+
 Solder the 3 stripped wires into the via.
+
+![Image of SolderingPart1](https://thesweeterman.github.io/TBD/Soldering/step5.PNG)
+
 step 5:
+
 flip PCB board over and go to step 6
-![Image of SolderingPart1](https://thesweeterman.github.io/TBD/SolderingPart1.PNG)
+
+![Image of SolderingPart1](https://thesweeterman.github.io/TBD/Soldering/step6.PNG)
+
 BOTTOM:
 Step 7:
 Solder the 3 pin stocket holes 
@@ -108,6 +133,7 @@ Top:
 Step 11: 
 
 flip the pcb board back to the top and solder in the 6 pin socket.
+
 ![Image of SolderingPart2](https://thesweeterman.github.io/TBD/SolderingPart2.PNG)
 
 ### Power Up
