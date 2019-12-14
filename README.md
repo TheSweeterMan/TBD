@@ -25,7 +25,34 @@
 
 ### Mechanical Assembly
 Requires: 
-Bread board, male to male jumper wires, DS18B20 temperature sensor, and Raspberry pi
+Bread board, male to male jumper wires, DS18B20 temperature sensor, 4.7k resistor, and Raspberry pi
+Step 1:
+
+Place Bread board on tablean and insert sensor into breadboard.
+
+
+![Image of sensor](https://thesweeterman.github.io/TBD/PowerUp/step1.PNG)
+
+Step 2:
+
+Insert a 4.7k resistor into the vdd pin and data pin of the sensor.
+
+![Image of SolderingPart1](https://thesweeterman.github.io/TBD/PowerUp/step2.PNG)
+
+
+
+Step 3:
+
+![Image of SolderingPart1](https://thesweeterman.github.io/TBD/PowerUp/step3.PNG)
+
+Step 4:
+
+![Image of SolderingPart1](https://thesweeterman.github.io/TBD/PowerUp/step4.PNG)
+
+Step 5:
+
+
+![Image of SolderingPart1](https://thesweeterman.github.io/TBD/PowerUp/step5.PNG)
 
 [Youtube tutorial](https://www.youtube.com/watch?v=aEnS0-Jy2vE&t=87s)
 
@@ -127,7 +154,7 @@ type in cd to get back to the root directory.
 
 ![Image of SolderingPart1](https://thesweeterman.github.io/TBD/MechanicalAssembly/step10.PNG)
 
-step11:
+Step11:
 
 Finally, use the command sudo python temp.py to run your code and get readings.
 
@@ -138,5 +165,8 @@ Finally, use the command sudo python temp.py to run your code and get readings.
 
 ### Unit Testing
 
+Run the code and sqeeze on the sensor to see if you have the proper readings.
+
 ### Production Testing
+
 Get every 50th DS18B20 tempeature sensor in the production line and use a premade circuit to test the product.
