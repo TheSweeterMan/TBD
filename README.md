@@ -112,7 +112,7 @@ Insert 3 stripped wires into the via's on the middle right of the pcb
 
 Step 4
 
-Solder the 3 stripped wires into the via.
+Solder the 3 stripped wires into the via and get rid of any excess wiring.
 
 ![Image of SolderingPart1](https://thesweeterman.github.io/TBD/Soldering/step4.PNG)
 
@@ -129,7 +129,7 @@ Flip PCB board over on to back and insert the 6 pin in the first raspberry pi sl
 
 Step 6
 
-Solder wires that acquire soldering.
+Solder wires that acquire soldering and get rid of any excess wiring.
 
 ![Image of SolderingPart1](https://thesweeterman.github.io/TBD/Soldering/step6.PNG)
 
