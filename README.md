@@ -216,7 +216,7 @@ Finally, use the command sudo python temp.py to run your code and get readings.
 ![Image of running](https://thesweeterman.github.io/TBD/MechanicalAssembly/step11.PNG)
 
 
-![Image of PCB](https://thesweeterman.github.io/TBD/PowerUp.PNG)
+
 
 ### Unit Testing
 
