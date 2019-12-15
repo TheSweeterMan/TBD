@@ -220,6 +220,7 @@ Finally, use the command sudo python temp.py to run your code and get readings.
 ![Image of Project](https://thesweeterman.github.io/TBD/MechanicalAssembly/FinalProject.PNG)
 
 
+
 ### Unit Testing
 
 Run the code and sqeeze on the sensor to see if you have the proper readings.
