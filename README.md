@@ -215,7 +215,9 @@ Finally, use the command sudo python temp.py to run your code and get readings.
 
 ![Image of running](https://thesweeterman.github.io/TBD/MechanicalAssembly/step11.PNG)
 
+### Final Project
 
+![Image of Project](https://thesweeterman.github.io/TBD/MechanicalAssembly/FinalProject.PNG)
 
 
 ### Unit Testing
